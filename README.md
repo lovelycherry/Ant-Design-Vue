@@ -1,4 +1,4 @@
-# page1
+# README
 
 > A Vue.js project
 
